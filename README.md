@@ -1,6 +1,11 @@
+# 💫About Me :
+Hey myself **Kavinmaaran R K** a freshman at [**NIT Trichy**](https://www.nitt.edu/) **CSE** department .Iim still exploring the horizons of coding culture.
+
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__k_a_v_i_n__333__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinmaaran) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__k_a_v_i_n__333__) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinmaaran) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maaran_33)
 
 ## 💻Languages and Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -37,3 +42,6 @@
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+
+[![](https://visitcount.itsvg.in/api?id=TypicalAsian81&icon=1&color=10)](https://visitcount.itsvg.in)

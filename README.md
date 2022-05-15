@@ -1,5 +1,5 @@
 # 💫About Me :
-Hey myself **Kavinmaaran R K** a freshman at [**NIT Trichy**](https://www.nitt.edu/) **CSE** department .Iim still exploring the horizons of coding culture.
+Hey myself **Kavinmaaran R K** a freshman at [**NIT Trichy**](https://www.nitt.edu/) **CSE** department .I am still exploring the horizons of coding culture.
 
 
 ## 🌐Socials
@@ -42,6 +42,6 @@ Hey myself **Kavinmaaran R K** a freshman at [**NIT Trichy**](https://www.nitt.e
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- 
 
-
-[![](https://visitcount.itsvg.in/api?id=TypicalAsian81&icon=1&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TypicalAsian81&icon=1&color=10)](https://visitcount.itsvg.in) -->
